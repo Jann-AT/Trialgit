@@ -1,3 +1,3 @@
 # Trialgit
-Try making a git repository
-This is first trial
+Try making a git repository.
+This is the first trial.
